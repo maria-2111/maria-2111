@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @maria-2111
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Boas vindas ao meu perfil 💙💙
 
-<!---
-maria-2111/maria-2111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Maria Eduarda 🙋‍♀️
+
+- Estou estudando na alura
+
+- Estou me desenvolvendo na linguagem JavaScript
+
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+
+## Você pode entrar em contato comigo 📫
+
+silvia.santos.maria@escola.pr.gov.br
+
+@silvia.santos
+
+![](https://tenor.com/pt-BR/view/smiling-giggle-happy-baby-laughing-gif-14974844)
