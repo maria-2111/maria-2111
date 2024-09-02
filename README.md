@@ -2,7 +2,7 @@
 
 Meu nome é Maria Eduarda 🙋‍♀️
 
-- Estou estudando na alura
+- Estou estudando na [alura] (https://www.alura.com.pr)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
