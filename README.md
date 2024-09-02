@@ -18,4 +18,5 @@ silvia.santos.maria@escola.pr.gov.br
 ![](https://tenor.com/pt-BR/view/smiling-giggle-happy-baby-laughing-gif-14974844)
 
 
-![](23https://media1.tenor.com/m/i1qG369b7hgAAAAC/kisses.gif)
+![]()
+https://media1.tenor.com/m/i1qG369b7hgAAAAC/kisses.gif
